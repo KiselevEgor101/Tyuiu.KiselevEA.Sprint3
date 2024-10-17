@@ -32,7 +32,7 @@ namespace Tyuiu.KiselevEA.Sprint3.Task0.V2
             Console.WriteLine("Старт шага = " + startValue);
             Console.WriteLine("Конец шага = " + stopValue);
 
-
+             
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
