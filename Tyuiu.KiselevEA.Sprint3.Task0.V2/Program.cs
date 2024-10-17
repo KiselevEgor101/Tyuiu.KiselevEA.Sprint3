@@ -25,7 +25,7 @@ namespace Tyuiu.KiselevEA.Sprint3.Task0.V2
             Console.WriteLine("***************************************************************************");
 
             int startValue = 1;
-            int stopValue = 10;
+            int stopValue = 9;
             
             
             
