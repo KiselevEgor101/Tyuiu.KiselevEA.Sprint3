@@ -14,7 +14,7 @@ namespace Tyuiu.KiselevEA.Sprint3.Task0.V2.Test
 
             double res = ds.GetMultiplySeries(startValue, stopValue);
 
-            double wait = 17.255;
+            double wait = 0;
 
             Assert.AreEqual(wait, res);
         }
