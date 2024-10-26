@@ -17,7 +17,7 @@ namespace Tyuiu.KiselevEA.Sprint3.Task3.V24
             Console.WriteLine("* Выполнил: Киселев Егор Алексеевич | СМАРТб-24-1                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("* Написать программу используя цикл foreach                               *");
+            Console.WriteLine("* Написать программу используя цикл foreach.                              *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
